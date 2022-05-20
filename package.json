@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "tsc":"tsc",
-    "dev":"ts-node-dev src/exercises1.ts"
+    "dev":"ts-node-dev src/exercises1.ts",
+    "exc":"ts-node-dev src/exercises2.ts"
   },
   "keywords": [],
   "author": "",
